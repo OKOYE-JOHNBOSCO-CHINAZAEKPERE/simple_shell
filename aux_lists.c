@@ -1,4 +1,4 @@
-#include "main.h"
+#include "mainh"
 
 /**
  * add_sep_node_end - adds a separator found at the end
